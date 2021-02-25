@@ -1,0 +1,14 @@
+D:\DemoTest\ocelot-gateway\ocelot-gateway\bin\Debug\netcoreapp2.1\ocelot-gateway.deps.json
+D:\DemoTest\ocelot-gateway\ocelot-gateway\bin\Debug\netcoreapp2.1\ocelot-gateway.runtimeconfig.json
+D:\DemoTest\ocelot-gateway\ocelot-gateway\bin\Debug\netcoreapp2.1\ocelot-gateway.runtimeconfig.dev.json
+D:\DemoTest\ocelot-gateway\ocelot-gateway\bin\Debug\netcoreapp2.1\ocelot-gateway.dll
+D:\DemoTest\ocelot-gateway\ocelot-gateway\obj\Debug\netcoreapp2.1\ocelot-gateway.csproj.CoreCompileInputs.cache
+D:\DemoTest\ocelot-gateway\ocelot-gateway\obj\Debug\netcoreapp2.1\ocelot-gateway.RazorAssemblyInfo.cache
+D:\DemoTest\ocelot-gateway\ocelot-gateway\obj\Debug\netcoreapp2.1\ocelot-gateway.RazorAssemblyInfo.cs
+D:\DemoTest\ocelot-gateway\ocelot-gateway\obj\Debug\netcoreapp2.1\ocelot-gateway.AssemblyInfoInputs.cache
+D:\DemoTest\ocelot-gateway\ocelot-gateway\obj\Debug\netcoreapp2.1\ocelot-gateway.AssemblyInfo.cs
+D:\DemoTest\ocelot-gateway\ocelot-gateway\obj\Debug\netcoreapp2.1\ocelot-gateway.RazorTargetAssemblyInfo.cache
+D:\DemoTest\ocelot-gateway\ocelot-gateway\bin\Debug\netcoreapp2.1\ocelot-gateway.pdb
+D:\DemoTest\ocelot-gateway\ocelot-gateway\obj\Debug\netcoreapp2.1\ocelot-gateway.csprojAssemblyReference.cache
+D:\DemoTest\ocelot-gateway\ocelot-gateway\obj\Debug\netcoreapp2.1\ocelot-gateway.dll
+D:\DemoTest\ocelot-gateway\ocelot-gateway\obj\Debug\netcoreapp2.1\ocelot-gateway.pdb

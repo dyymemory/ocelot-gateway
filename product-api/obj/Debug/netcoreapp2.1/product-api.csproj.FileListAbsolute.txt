@@ -1,0 +1,14 @@
+D:\DemoTest\ocelot-gateway\product-api\bin\Debug\netcoreapp2.1\product-api.deps.json
+D:\DemoTest\ocelot-gateway\product-api\bin\Debug\netcoreapp2.1\product-api.runtimeconfig.json
+D:\DemoTest\ocelot-gateway\product-api\bin\Debug\netcoreapp2.1\product-api.runtimeconfig.dev.json
+D:\DemoTest\ocelot-gateway\product-api\bin\Debug\netcoreapp2.1\product-api.dll
+D:\DemoTest\ocelot-gateway\product-api\bin\Debug\netcoreapp2.1\product-api.pdb
+D:\DemoTest\ocelot-gateway\product-api\obj\Debug\netcoreapp2.1\product-api.csprojAssemblyReference.cache
+D:\DemoTest\ocelot-gateway\product-api\obj\Debug\netcoreapp2.1\product-api.csproj.CoreCompileInputs.cache
+D:\DemoTest\ocelot-gateway\product-api\obj\Debug\netcoreapp2.1\product-api.RazorAssemblyInfo.cache
+D:\DemoTest\ocelot-gateway\product-api\obj\Debug\netcoreapp2.1\product-api.RazorAssemblyInfo.cs
+D:\DemoTest\ocelot-gateway\product-api\obj\Debug\netcoreapp2.1\product-api.AssemblyInfoInputs.cache
+D:\DemoTest\ocelot-gateway\product-api\obj\Debug\netcoreapp2.1\product-api.AssemblyInfo.cs
+D:\DemoTest\ocelot-gateway\product-api\obj\Debug\netcoreapp2.1\product-api.RazorTargetAssemblyInfo.cache
+D:\DemoTest\ocelot-gateway\product-api\obj\Debug\netcoreapp2.1\product-api.dll
+D:\DemoTest\ocelot-gateway\product-api\obj\Debug\netcoreapp2.1\product-api.pdb
